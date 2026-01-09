@@ -1,4 +1,4 @@
 out/
 .idea/
-GitTest9.iml
+**/*.iml
 **/*.log
